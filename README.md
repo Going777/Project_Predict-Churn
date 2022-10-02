@@ -19,11 +19,11 @@
 * DeviceProtection : 장치 보호 서비스 사용 여부
 * TechSupport : 기술지원 서비스 사용 여부
 * StreamingTV : 스트리밍 TV 서비스 사용 여부
-* StreamingMovies : 스트리밍 영화 서비스 사용 여부
+* StreamingMovies : 스트리밍 영화 서비스 사용 여부
 * Contract : 계약 형태 (Month to Month, One year, Two years)
 * PaperlessBilling : 종이영수증 사용 여부 (Yes, No)
 * PaymentMethod : 결제 수단 ()
-* MonthlyCharges : 월 납부액
+* MonthlyCharges : 월 납부액
 * TotalCharges : 전체 기간 납부액
 * Churn : 지난달 기준 통신사 이탈 여부 (yes, no)
 ---
